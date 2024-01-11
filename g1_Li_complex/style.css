@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+body{
+    background-color: aqua;
+    margin: 0;
+}
+
+div{
+    text-align: center;
+}
+
+.para{
+    font-family: 'Poppins', sans-serif;
+}
+
+.headers{
+    margin-top: 8vh;
+    margin-left: 65vh;
+    width: 60vh;
+    height: auto;
+}
+
+.head1 h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+}
+
+.head2{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.box1n4{
+    margin-top: 24vh;
+}
+
+.box2-3{
+    text-align: center;
+    margin-top: 3vh;
+}
+
+#box1{
+    background-color: white;
+    margin-right: 1vw;
+    height: 25vh;
+    padding: 20px;
+}
+
+.box2{
+    background-color: white;
+    height: 25vh;
+    padding: 20px;
+}
+
+.box3{
+    background-color: white;
+    height: 25vh;
+    margin-top: 5vh;
+    padding: 20px;
+}
+
+#box4{
+    background-color: white;
+    margin-left: 1vw;
+    height: 25vh;
+    padding: 20px;
+}
+
+img{
+    margin-top: 200px;
+    display: flex;
+    float: right;
+    margin: 10px;
+}
+
